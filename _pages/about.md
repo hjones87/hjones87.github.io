@@ -6,12 +6,8 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-
-header:
-  overlay_image: /images/header.jpg
-  overlay_filter: 0.35
 ---
-
+/images/header.jpg
 # Holly Jones
 ## Business Intelligence Developer
 Tableau | Power BI | SQL | Data Visualisation
