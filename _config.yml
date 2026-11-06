@@ -29,8 +29,8 @@ author:
   bio              : "Business Intelligence Developer | Tableau | Power BI | SQL"
   location         : "London"
   employer         : #"Business Intelligence & Analytics Professional"
-  uri              : "https://public.tableau.com/app/profile/holly.jones7872/vizzes"
-  uri              : 
+  tableau          : "https://public.tableau.com/app/profile/holly.jones7872/vizzes"
+  powerbi          : 
   email            : "hjones87@outlook.com"
   cv               : #CV link
 
