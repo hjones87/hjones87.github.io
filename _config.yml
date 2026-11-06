@@ -23,7 +23,7 @@ repository               : "hjones87/hjones87.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Holly Jones"
   pronouns         : "she/her"  
   bio              : "Business Intelligence Developer | Tableau | Power BI | SQL"
