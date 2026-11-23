@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <img src="/images/header.jpg" alt="Portfolio Banner" style="width:90%; margin-bottom:20px;">
-
+<br>
 
 
 
