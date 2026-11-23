@@ -26,6 +26,8 @@
   .page__inner-wrap {
     @include full();
 
+    padding-left: 75px;
+     
     .page__content,
     .page__meta,
     .page__share {
