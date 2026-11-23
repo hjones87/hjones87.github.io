@@ -26,6 +26,8 @@
   .page__inner-wrap {
     @include full();
 
+     margin-left: 30px;
+
     .page__content,
     .page__meta,
     .page__share {
@@ -49,8 +51,6 @@
 }
 
 .page__content {
-
-   margin-left:30px;
 
   h2 {
     padding-bottom: 0.5em;
