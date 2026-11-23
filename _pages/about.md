@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Portfolio Banner](/images/header.jpg)
+<img src="/images/header.jpg" alt="Portfolio Banner" style="width:100%; margin-bottom:20px;">
 
 # Holly Jones
 ## Business Intelligence Developer
