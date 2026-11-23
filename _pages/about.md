@@ -20,21 +20,11 @@ Throughout my career I have worked with stakeholders across multiple functions, 
 
 ## Core Technologies
 
-### Data Visualisation
-- Tableau
-- Power BI
-
-### Data & Analytics
-- SQL
-- Excel
-
-### Data Modelling
-- DAX
-- Power Query
-- Snowflake
-
-### Programming
-- Python
+| **Data Visualisation** | **Data & Analytics** | **Data Modelling** | **Programming** |
+|---|---|---|---|
+| Tableau | SQL | DAX | Python |
+| Power BI | Excel | Power Query | |
+| | Snowflake | Snowflake | |
 
  
 ## Certifications and Awards
