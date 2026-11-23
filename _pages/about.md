@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 <img src="/images/header.jpg" alt="Portfolio Banner" style="width:90%; margin-bottom:20px;">
-
 <br>
 
-
-
-# Holly Jones
+# About Me
 ## Business Intelligence Developer
 Tableau | Power BI | SQL | Data Visualisation
 
