@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-/images/header.jpg
+![Portfolio Banner](/images/header.jpg)
+
 # Holly Jones
 ## Business Intelligence Developer
 Tableau | Power BI | SQL | Data Visualisation
