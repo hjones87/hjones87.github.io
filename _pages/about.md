@@ -42,15 +42,15 @@ Throughout my career I have worked with stakeholders across multiple functions, 
 ## Certifications and Awards
 
 ### Power BI
-- PL-300 Microsoft Power BI Data Analyst | Aug 2026
+- PL-300 Microsoft Power BI Data Analyst (Aug 2026)
 
 ### Snowflake
-- Hands_on Essentials: Data Warehousing Workshop (Badge 1)
-- Hands-On Essentials: Collaboration, Marketplace & Cost Estimation (Badge 2)
-- Hands-On Essentials: Data Applications Builder (Badge 3)
+- Hands_on Essentials Badge 1: Data Warehousing Workshop (Nov 2026)
+- Hands-On Essentials Badge 2: Collaboration, Marketplace & Cost Estimation (Nov 2026)
+- Hands-On Essentials Badge 3: Data Applications Builder (Nov 2026)
 
 ### dbt
-- dbt Fundamentals | Jan 2025
+- dbt Fundamentals (Jan 2025)
 
 
 ## Career Highlights
