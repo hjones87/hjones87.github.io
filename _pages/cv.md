@@ -19,40 +19,40 @@ Key Skills
 - **ANALYSIS & GOVERNANCE:** KPI Development, Commercial Analysis, Trend Analysis, Performance Monitoring, Metrics Definitions, Technical Documentation, Row-Level Security, Object-Level Security.
 - **STAKEHOLDER & DELIVERY:** Requirements Gathering, Backlog Prioritisation, User Acceptance Testing, Workshop Facilitation, Training & Coaching, Agile Delivery.
 
-Work experience
+Professional Experience
 ======
 
 THE INFORMATION LAB | Data Analyst and BI Consultant	Dec 2023 – Oct 2026
 - Completed 4 months of consultancy training covering Tableau, Power BI, Alteryx, SQL fundamentals and data modelling.
 - Delivered analytics and reporting solutions across retail, finance, fintech, sports science, media, defence and technology sectors, building reporting solutions that help stakeholders make evidence-based decisions.
 
-Volvo Cars Corporation | Power BI Enablement Consultant | Apr – Oct 2026
-- Delivered learning programmes covering Power BI, Power Query, DAX and data modelling, enabling 300+ users to build and maintain their own Power BI reports.
-- Produced microlearning videos and support documentation covering Snowflake, SharePoint and Excel connections, report optimisation and row-/object-level security.
-- Hosted technical clinics, troubleshooting DAX and data-modelling issues; developing Power Automate workflows, improving workforce efficiency by 2-5 hours per week per employee.
+  Volvo Cars Corporation | Power BI Enablement Consultant | Apr – Oct 2026
+  - Delivered learning programmes covering Power BI, Power Query, DAX and data modelling, enabling 300+ users to build and maintain their own Power BI reports.
+  - Produced microlearning videos and support documentation covering Snowflake, SharePoint and Excel connections, report optimisation and row-/object-level security.
+  - Hosted technical clinics, troubleshooting DAX and data-modelling issues; developing Power Automate workflows, improving workforce efficiency by 2-5 hours per week per employee.
 
-John Lewis Partnership | Enablement Specialist | Oct 2025 - Apr 2026
--	Developed e-learning programmes upskilling 1,500+ BI users and 500+ Snowflake SQL users, improving organisation-wide reporting and analytical capabilities.
--	Built a Tableau Data Ambassador dashboard connecting business teams with 150+ analytics specialists. 
--	Led a webinar series on accessible dashboard design (dyslexia, dyscalculia and colour-blindness), driving updates to BI reporting accessibility standards across the business.
--	Utilised advanced Excel techniques, including data cleansing, transformation and validation, to develop Tableau data sources and support business reporting.
--	Led peer reviews of dashboards and learning content to improve quality and user experience.
+  John Lewis Partnership | Enablement Specialist | Oct 2025 - Apr 2026
+  -	Developed e-learning programmes upskilling 1,500+ BI users and 500+ Snowflake SQL users, improving organisation-wide reporting and analytical capabilities.
+  -	Built a Tableau Data Ambassador dashboard connecting business teams with 150+ analytics specialists. 
+  -	Led a webinar series on accessible dashboard design (dyslexia, dyscalculia and colour-blindness), driving updates to BI reporting accessibility standards across the business.
+  -	Utilised advanced Excel techniques, including data cleansing, transformation and validation, to develop Tableau data sources and support business reporting.
+  -	Led peer reviews of dashboards and learning content to improve quality and user experience.
 
-BAE Systems | Lead Tableau BI Developer | Jan 2025 - Oct 2025
--	Delivered Tableau functional performance dashboard 50% under budget, used by senior leadership to monitor operational performance trends and risks.
--	Partnered with HR, Workforce Planning, QA and Governance stakeholders to define KPIs definitions, reporting measures and business requirements for reporting solutions.
--	Investigating and resolving data quality and aggregation issues in Tableau and SQL, improving confidence in workforce performance reporting.
--	Developed mock-data solutions in Excel, saving 320 operational hours by eliminating manual preparation work.
+  BAE Systems | Lead Tableau BI Developer | Jan 2025 - Oct 2025
+  -	Delivered Tableau functional performance dashboard 50% under budget, used by senior leadership to monitor operational performance trends and risks.
+  -	Partnered with HR, Workforce Planning, QA and Governance stakeholders to define KPIs definitions, reporting measures and business requirements for reporting solutions.
+  -	Investigating and resolving data quality and aggregation issues in Tableau and SQL, improving confidence in workforce performance reporting.
+  -	Developed mock-data solutions in Excel, saving 320 operational hours by eliminating manual preparation work.
 
-John Lewis Partnership | Data Analyst Consultant | Nov 2024 - Jan 2025
--	Developed Tableau dashboards measuring platform adoption, retention and engagement for 1,500-3,000+ users. 
--	Built a Tableau training directory directing 500+ users to relevant courses based on their job role and skill level.
--	Built reusable KPI reporting templates and authoring guides, improving reporting consistency and efficiency.
+  John Lewis Partnership | Data Analyst Consultant | Nov 2024 - Jan 2025
+  -	Developed Tableau dashboards measuring platform adoption, retention and engagement for 1,500-3,000+ users. 
+  -	Built a Tableau training directory directing 500+ users to relevant courses based on their job role and skill level.
+  -	Built reusable KPI reporting templates and authoring guides, improving reporting consistency and efficiency.
 
-Amex Global Business Travel | Data Analyst Consultant | Apr 2024 - Nov 2024
--	Delivered a Tableau performance analysis dashboard for a large-scale commercial bid, defining and tracking 100+ KPI measures across travel spend, operational performance and compliance datasets. 
--	Optimised complex calculations to reduce dashboard latency and improve performance for financial stakeholders. 
--	Created reusable dashboard templates that increased reporting development efficiency by 300%.
+  Amex Global Business Travel | Data Analyst Consultant | Apr 2024 - Nov 2024
+  -	Delivered a Tableau performance analysis dashboard for a large-scale commercial bid, defining and tracking 100+ KPI measures across travel spend, operational performance and compliance datasets. 
+  -	Optimised complex calculations to reduce dashboard latency and improve performance for financial stakeholders. 
+  -	Created reusable dashboard templates that increased reporting development efficiency by 300%.
 
 TIKTOK LTD | Trust & Safety Advisor	Mar 2022 - Dec 2023
 -	Analysed SLA, quality and operational performance data using Excel to identify trends, support workforce resource decisions and performance management across four teams.
