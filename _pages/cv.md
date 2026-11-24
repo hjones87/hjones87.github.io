@@ -11,6 +11,8 @@ Professional Profile
 ======
 BI Developer and Data Analyst with 3+ years' experience delivering BI, reporting and analytics solutions across retail, finance, defence and technology sectors. Skilled in Tableau, Power BI with a working knowledge of SQL and dbt, and experience in collaborating with stakeholders to define KPIs, building dashboards to support evidence-based decision-making, enabling self-serve reporting and delivering technical training. Certified Microsoft Power BI Data Analyst Associate and three-time Tableau Viz of the Day recipient with strong stakeholder engagement and hands-on client work developing clear dashboards to enable operational trend and performance monitoring.
 
+<br>
+
 Key Skills
 ======
 
@@ -18,6 +20,8 @@ Key Skills
 - **DATA & ANALYTICS:** SQL (Joins, Aggregations, Filtering, CTEs), Snowflake, Data Validation, Data Modelling (Star & Snowflake Schema), Data Quality Assurance, Root Cause Analysis, Data Source Connectivity.
 - **ANALYSIS & GOVERNANCE:** KPI Development, Commercial Analysis, Trend Analysis, Performance Monitoring, Metrics Definitions, Technical Documentation, Row-Level Security, Object-Level Security.
 - **STAKEHOLDER & DELIVERY:** Requirements Gathering, Backlog Prioritisation, User Acceptance Testing, Workshop Facilitation, Training & Coaching, Agile Delivery.
+
+<br>
 
 Professional Experience
 ======
@@ -65,6 +69,8 @@ Professional Experience
 
 **THE GREENWOOD PRACTICE, Receptionist and Administrative Assistant**, *May 2011 - Jul 2020*
 
+<br>
+
 Certifications & Awards
 ======
 -	Snowflake Hands-On Essentials Workshops Badge 1: Data Warehousing, *Nov 2026*
@@ -73,6 +79,8 @@ Certifications & Awards
 -	Three-time Tableau Public Viz of the Day recipient, *Aug 2026*
 -	Microsoft Certified: Power BI Data Analyst Associate., *Jul 2026*
 -	dbt Fundamentals, *Jan 2025*
+
+<br>
 
 Education
 ======
