@@ -8,13 +8,13 @@ redirect_from:
 ---
 <br>
 
-Professional Profile
+##Professional Profile
 ======
 BI Developer and Data Analyst with 3+ years' experience delivering BI, reporting and analytics solutions across retail, finance, defence and technology sectors. Skilled in Tableau, Power BI with a working knowledge of SQL and dbt, and experience in collaborating with stakeholders to define KPIs, building dashboards to support evidence-based decision-making, enabling self-serve reporting and delivering technical training. Certified Microsoft Power BI Data Analyst Associate and three-time Tableau Viz of the Day recipient with strong stakeholder engagement and hands-on client work developing clear dashboards to enable operational trend and performance monitoring.
 
 <br>
 
-Key Skills
+## Key Skills
 ======
 
 - **BUSINESS INTELLIGENCE & REPORTING:** Tableau (Desktop, Prep, Server/Cloud), Power BI (DAX, Power Query, Semantic Models, Service), Dashboard Development, Executive Reporting, Self-Service Analytics.
@@ -24,7 +24,7 @@ Key Skills
 
 <br>
 
-Professional Experience
+## Professional Experience
 ======
 
 **THE INFORMATION LAB, Data Analyst and BI Consultant**, *Dec 2023 – Oct 2026*
@@ -72,7 +72,7 @@ Professional Experience
 
 <br>
 
-Certifications & Awards
+## Certifications & Awards
 ======
 -	Snowflake Hands-On Essentials Workshops Badge 1: Data Warehousing, *Nov 2026*
 -	Snowflake Hands-On Essentials Workshops Badge 1: Collaboration, Marketplace & Cost Estimation, *Nov 2026*
@@ -83,7 +83,7 @@ Certifications & Awards
 
 <br>
 
-Education
+## Education
 ======
 - MSc Applied Wildlife Conservation (Distinction), Anglia Ruskin University, Cambridge, *Dec 2017*
 - BSc Marine & Freshwater Biology (First Class Honours), University of Essex, Colchester, *Jun 2015*
