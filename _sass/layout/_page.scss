@@ -193,9 +193,11 @@
   }
 }
 
+/* table formatting */
+
 .page__content table td,
 .page__content table th {
-  font-size: inherit !important;
+  font-size: 1.2rem !important;
 }
 
 .page__content table th {
