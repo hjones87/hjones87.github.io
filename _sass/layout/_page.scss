@@ -193,6 +193,25 @@
   }
 }
 
+.page__content table td {
+  font-size: 1em;
+  font-family: $global-font-family;
+}
+
+.page__content table th {
+  font-size: 1em;
+  font-family: $global-font-family;
+  background-color: #2f7f93;
+  color: white;
+  font-weight: 700;
+}
+
+.page__content table,
+.page__content th,
+.page__content td {
+  border: none !important;
+}
+
 /*
    Social sharing
    ========================================================================== */
