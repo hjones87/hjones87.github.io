@@ -20,6 +20,10 @@ Throughout my career I have worked with stakeholders across multiple functions, 
 <br>
 
 ## Core Technologies
+h2 {
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #5c5c5c;
+}
 
 |**Data Visualisation** | **Data & Analytics** | **Data Modelling** | **Programminng** |
 |--|--|--|--|
