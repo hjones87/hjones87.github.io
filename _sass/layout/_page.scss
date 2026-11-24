@@ -193,9 +193,9 @@
   }
 }
 
-.page__content table td {
-  font-size: 1em;
-  font-family: $global-font-family;
+.page__content table td,
+.page__content table th {
+  font-size: inherit !important;
 }
 
 .page__content table th {
