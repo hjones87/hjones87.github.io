@@ -24,8 +24,7 @@ repository               : "hjones87/hjones87.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpg"
-  name             : "Holly Jones"
-  pronouns         : "she/her"  
+  name             : "Holly Jones"  
   bio              : "Business Intelligence Developer | Tableau | Power BI | SQL"
   location         : "London"
   employer         : #"Business Intelligence & Analytics Professional"
