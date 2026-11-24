@@ -18,6 +18,8 @@ I am a Business Intelligence Developer with experience designing and delivering 
 
 Throughout my career I have worked with stakeholders across multiple functions, developing dashboards, automating reporting processes and helping organisations make better use of their data.
 
+<br>
+
 ## Core Technologies
 
 |**Data Visualisation** | **Data & Analytics** | **Data Modelling** | **Programminng** |
@@ -26,6 +28,7 @@ Throughout my career I have worked with stakeholders across multiple functions, 
 | Power BI | Excel | Power Query |
 | | Snowflake | Snowflake | | 
 
+<br>
 
 ## Career Highlights
 - **Multi-Industry Consulting Experience:** Delivered analytics and reporting solutions across retail, finance, technology, defence, travel and media sectors.
@@ -38,6 +41,7 @@ Throughout my career I have worked with stakeholders across multiple functions, 
 
 - **Industry Recognition:** Three-time Tableau Public Viz of the Day recipient and Microsoft Certified Power BI Data Analyst Associate.
 
+<br>
 
 ## Certifications and Awards
 
@@ -52,6 +56,7 @@ Throughout my career I have worked with stakeholders across multiple functions, 
 ### dbt
 - dbt Fundamentals (Jan 2025)
 
+<br>
 
 ## Featured Projects
 
