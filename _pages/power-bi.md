@@ -1,6 +1,6 @@
 ---
 title: "Power BI"
-permalink: /powerbi/
+permalink: /power-bi/
 author_profile: true
 ---
 
