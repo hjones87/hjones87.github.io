@@ -4,6 +4,6 @@ permalink: /tableau/
 author_profile: true
 ---
 
-# Projects
+## Projects
 
 Details of my projects will appear here.
