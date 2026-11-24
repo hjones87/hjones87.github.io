@@ -26,7 +26,19 @@ Throughout my career I have worked with stakeholders across multiple functions, 
 | Power BI | Excel | Power Query |
 | | Snowflake | Snowflake | | 
 
- 
+
+## Career Highlights
+- **Multi-Industry Consulting Experience:** Delivered analytics and reporting solutions across retail, finance, technology, defence, travel and media sectors.
+
+- **Analytics Enablement & Training:** Developed and delivered Tableau, Power BI and Snowflake learning programmes supporting more than 1,800 users.
+
+- **Dashboard Development & Visual Analytics:** Built Tableau and Power BI dashboards supporting workforce planning, operational performance, KPI monitoring and executive reporting.
+
+- **Process Improvement & Automation:** Created reporting templates, learning resources and workflow solutions that improved efficiency and reduced manual effort.
+
+- **Industry Recognition:** Three-time Tableau Public Viz of the Day recipient and Microsoft Certified Power BI Data Analyst Associate.
+
+
 ## Certifications and Awards
 
 ### Power BI
@@ -39,18 +51,6 @@ Throughout my career I have worked with stakeholders across multiple functions, 
 
 ### dbt
 - dbt Fundamentals (Jan 2025)
-
-
-## Career Highlights
-- **Multi-Industry Consulting Experience:** Delivered analytics and reporting solutions across retail, finance, technology, defence, travel and media sectors.
-
-- **Analytics Enablement & Training:** Developed and delivered Tableau, Power BI and Snowflake learning programmes supporting more than 1,800 users.
-
-- **Dashboard Development & Visual Analytics:** Built Tableau and Power BI dashboards supporting workforce planning, operational performance, KPI monitoring and executive reporting.
-
-- **Process Improvement & Automation:** Created reporting templates, learning resources and workflow solutions that improved efficiency and reduced manual effort.
-
-- **Industry Recognition:** Three-time Tableau Public Viz of the Day recipient and Microsoft Certified Power BI Data Analyst Associate.
 
 
 ## Featured Projects
