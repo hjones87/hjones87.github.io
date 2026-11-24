@@ -23,6 +23,9 @@ main:
   - title: "SQL"
     url: /sql/
 
+  - title: "Python"
+    url: /python/
+
   - title: "Blog Posts"
     url: /year-archive/
 
