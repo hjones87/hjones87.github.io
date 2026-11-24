@@ -6,6 +6,6 @@ author_profile: true
 
 <br>
   
-# Projects
+## Projects
 
 Details of my projects will appear here.
