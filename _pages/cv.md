@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<br>
 
 Professional Profile
 ======
