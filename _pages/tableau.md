@@ -13,7 +13,8 @@ A collection of personally created Tableau dashboards demonstrating business int
   <div style="flex:1.5;">
 
   <h3>Commercial Performance & Outlook Dashboard</h3>
-  <div style="font-size:0.9em;">
+  
+
   <p><strong>Project Overview</strong><br>
   Interactive Tableau dashboard developed as part of a BI Developer technical assessment, combining sales performance, budget attainment, and pipeline forecasting into a single executive reporting solution.</p>
 
@@ -43,6 +44,8 @@ A collection of personally created Tableau dashboards demonstrating business int
   </div>
 
 </div>
+
+<div style="clear:both;"></div>
 
 ## 📊 Business Dashboards
 
