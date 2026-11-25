@@ -59,12 +59,6 @@
 
 }
 
-.archive h2 {
-  padding-bottom: 0.5em !important;
-  border-bottom: 1px solid var(--global-border-color) !important;
-  margin-bottom: 1em !important;
-}
-
   p, li, dl {
     font-size: 1em;
   }
@@ -199,6 +193,12 @@
     color: #fff;
     text-decoration: none;
   }
+}
+
+.archive h2 {
+  display: inline-block;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid var(--global-border-color);
 }
 
 /* table formatting */
