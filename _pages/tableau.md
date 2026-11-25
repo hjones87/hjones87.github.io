@@ -15,16 +15,16 @@ A collection of personally created Tableau dashboards demonstrating business int
   <h2>Commercial Performance & Outlook Dashboard</h2>
 
   <p><strong>Project Overview</strong><br>
-  An executive dashboard designed to monitor sales, profitability, customer trends and regional performance across the UK retail market.</p>
+  Interactive Tableau dashboard developed as part of a BI Developer technical assessment, combining sales performance, budget attainment, and pipeline forecasting into a single executive reporting solution.</p>
 
   <p><strong>Business Challenge</strong><br>
-  Business leaders needed a single view of commercial performance to support strategic and operational decision-making.</p>
+  Provide senior commercial stakeholders with a clear view of current contract sales performance against budget and assess in which areas future pipeline opportunities and risks were located </p>
 
   <p><strong>Key Metrics</strong><br>
-  Revenue, Profit Margin, Order Volume, Customer Growth and Regional Performance.</p>
+  YTD Sales, YTD Budget, Budget Attainment %, Open Pipeline Value, Weighted Pipeline, Sales vs Budget Variance, and Opportunity Push Count.</p>
 
   <p><strong>Tools & Techniques</strong><br>
-  Tableau, Parameters, Dashboard Actions, Calculated Fields, KPI Design, Interactive Filtering.</p>
+  Tableau, Dashboard Design, Calculated Fields, Interactive Filters, KPI Reporting, Variance Analysis, Pipeline Analytics, and Data Storytelling.</p>
 
   <p>
     <a href="https://public.tableau.com/app/profile/holly.jones7872/viz/CommercialPerformanceOutlookDashboard/ComercialPerformanceOutlook" target="_blank">
