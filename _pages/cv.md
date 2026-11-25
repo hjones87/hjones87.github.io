@@ -9,7 +9,7 @@ redirect_from:
 <br>
 
 ## Professional Profile
-======
+
 BI Developer and Data Analyst with 3+ years' experience delivering BI, reporting and analytics solutions across retail, finance, defence and technology sectors. Skilled in Tableau, Power BI with a working knowledge of SQL and dbt, and experience in collaborating with stakeholders to define KPIs, building dashboards to support evidence-based decision-making, enabling self-serve reporting and delivering technical training. Certified Microsoft Power BI Data Analyst Associate and three-time Tableau Viz of the Day recipient with strong stakeholder engagement and hands-on client work developing clear dashboards to enable operational trend and performance monitoring.
 
 <br>
