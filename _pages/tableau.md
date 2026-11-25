@@ -8,9 +8,9 @@ A collection of personally created Tableau dashboards demonstrating business int
 
 ## ⭐ Featured Project
 
-<div style="display:flex; gap:20px; margin-bottom:40px; align-items:flex-start;">
+<div style="display:flex; gap:20px; margin-bottom:40px; align-items:center;">
 
-  <div style="flex:2;">
+  <div style="flex:1;">
 
   <h3>Commercial Performance & Outlook Dashboard</h3>
 
@@ -34,7 +34,7 @@ A collection of personally created Tableau dashboards demonstrating business int
 
   </div>
 
-  <div style="flex:1;">
+  <div style="flex:2;">
     <a href="https://public.tableau.com/" target="_blank">
       <img src="/images/commercial_performance_&_outlook.png"
            alt="Commercial Performance Dashboard"
