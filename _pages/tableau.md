@@ -10,43 +10,47 @@ A collection of personally created Tableau dashboards demonstrating business int
 
 <div style="display:flex; gap:30px; margin-bottom:40px; align-items:center;">
 
-  <div style="flex:1.5;">
+  <div style="flex:3;">
 
   <h3>Commercial Performance & Outlook Dashboard</h3>
-  
-  <p style="font-size:0.85em;">
+
+  <div style="font-size:0.9em;">
+
+  <p>
     <strong>Project Overview</strong><br>
-  Interactive Tableau dashboard developed as part of a BI Developer technical assessment, combining sales performance, budget attainment, and pipeline forecasting into a single executive reporting solution.
-  </p>
-
-  <p style="font-size:0.85em;">
-    <strong>Business Challenge</strong><br>
-  Provide senior commercial stakeholders with a clear view of current contract sales performance against budget and assess in which areas future pipeline opportunities and risks were located.
-  </p>
-
-  <p style="font-size:0.85em;">
-    <strong>Key Metrics</strong><br>
-  YTD Sales, YTD Budget, Budget Attainment %, Open Pipeline Value, Weighted Pipeline, Sales vs Budget Variance, and Opportunity Push Count.
-  </p>
-
-  <p><p style="font-size:0.85em;">
-    <strong>Tools & Techniques</strong><br>
-  Tableau, Dashboard Design, Calculated Fields, Interactive Filters, KPI Reporting, Variance Analysis, Pipeline Analytics, and Data Storytelling.
+    Executive dashboard developed to analyse commercial performance, budget attainment, and future sales pipeline opportunities.
   </p>
 
   <p>
-    <a href="https://public.tableau.com/app/profile/holly.jones7872/viz/CommercialPerformanceOutlookDashboard/ComercialPerformanceOutlook" target="_blank">
+    <strong>Business Challenge</strong><br>
+    Assess current sales performance and determine whether future pipeline activity is sufficient to achieve commercial targets.
+  </p>
+
+  <p>
+    <strong>Key Metrics</strong><br>
+    YTD Sales, Budget Attainment, Open Pipeline, Weighted Pipeline, Sales Variance, and Opportunity Push Count.
+  </p>
+
+  <p>
+    <strong>Tools & Techniques</strong><br>
+    Tableau, KPI Reporting, Dashboard Actions, Interactive Filtering, Calculated Fields, Pipeline Analysis, and Executive Dashboard Design.
+  </p>
+
+  <p>
+    <a href="YOUR_TABLEAU_PUBLIC_LINK" target="_blank">
       View Interactive Dashboard →
     </a>
   </p>
 
   </div>
 
-  <div style="flex:1.5;">
-    <a href="https://public.tableau.com/" target="_blank">
-      <img src="/images/commercial_performance_&_outlook.png"
+  </div>
+
+  <div style="flex:2;">
+    <a href="YOUR_TABLEAU_PUBLIC_LINK" target="_blank">
+      <img src="/images/tableau/commercial-performance-thumbnail.png"
            alt="Commercial Performance Dashboard"
-           style="width:100%; border-radius:0px;">
+           style="width:100%; border-radius:5px;">
     </a>
   </div>
 
