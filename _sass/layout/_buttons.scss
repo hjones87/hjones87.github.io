@@ -48,7 +48,7 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: var(--global-bg-colour);
+    color: var(--global-bg-colour) !important;
     border: 1px solid var(--global-border-color) !important; /* override*/
     background-color: var(--global-text-color);
 
