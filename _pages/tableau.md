@@ -8,37 +8,41 @@ A collection of personally created Tableau dashboards demonstrating business int
 
 ## ⭐ Featured Project
 
-<table style="width:100%; border:none;">
-<tr>
+<div style="display:flex; gap:20px; margin-bottom:40px; align-items:flex-start;">
 
-<td style="width:70%; vertical-align:top; border:none;"> 
+  <div style="flex:2;">
 
-  <h2>Commercial Performance & Future Outlook</h2>
+  <h3>Commercial Performance & Outlook Dashboard</h3>
 
   <p><strong>Project Overview</strong><br>
-  Brief overview of the dashboard and what it demonstrates.</p>
+  An executive dashboard designed to monitor sales, profitability, customer trends and regional performance across the UK retail market.</p>
 
   <p><strong>Business Challenge</strong><br>
-  Describe the question, problem, or objective addressed by the dashboard.</p>
+  Business leaders needed a single view of commercial performance to support strategic and operational decision-making.</p>
 
   <p><strong>Key Metrics</strong><br>
-  Revenue, Profit, Customer Growth, Retention Rate, Carbon Emissions, etc.</p>
+  Revenue, Profit Margin, Order Volume, Customer Growth and Regional Performance.</p>
 
   <p><strong>Tools & Techniques</strong><br>
-  Tableau, Calculated Fields, Parameters, Dashboard Actions, Maps, LOD Expressions.</p>
+  Tableau, Parameters, Dashboard Actions, Calculated Fields, KPI Design, Interactive Filtering.</p>
 
-  </td>
+  <p>
+    <a href="https://public.tableau.com/app/profile/holly.jones7872/viz/CommercialPerformanceOutlookDashboard/ComercialPerformanceOutlook" target="_blank">
+      View Interactive Dashboard →
+    </a>
+  </p>
 
-<td style="width:30%; vertical-align:top; border:none;">
+  </div>
 
-<a href="https://public.tableau.com/app/profile/holly.jones7872/viz/CommercialPerformanceOutlookDashboard/ComercialPerformanceOutlook">
-<img src="/images/commercial_performance_&_outlook.png" alt="Commercial Performance Dashboard Thumbnail" width="100%">
-</a>
+  <div style="flex:1;">
+    <a href="https://public.tableau.com/" target="_blank">
+      <img src="/images/commercial_performance_&_outlook.png"
+           alt="Commercial Performance Dashboard"
+           style="width:100%; border-radius:0px;">
+    </a>
+  </div>
 
-</td>
-
-</tr>
-</table>
+</div>
 
 ## 📊 Business Dashboards
 
