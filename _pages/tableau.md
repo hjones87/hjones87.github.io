@@ -8,9 +8,10 @@ A collection of personally created Tableau dashboards demonstrating business int
 
 ## ⭐ Featured Project
 
-<div style="display:flex; gap:30px; margin-bottom:40px; align-items:flex-start;">
+<table style="width:100%; border:none;">
+<tr>
 
-  <div style="flex:2;">
+<td style="width:70%; vertical-align:top; border:none;">
 
   <h3>Commercial Performance & Future Outlook</h3>
 
@@ -26,24 +27,18 @@ A collection of personally created Tableau dashboards demonstrating business int
   <p><strong>Tools & Techniques</strong><br>
   Tableau, Calculated Fields, Parameters, Dashboard Actions, Maps, LOD Expressions.</p>
 
-  <p>
-    <a href="https://public.tableau.com/app/profile/holly.jones7872/viz/CommercialPerformanceOutlookDashboard/ComercialPerformanceOutlook" target="_blank">
-      View Interactive Dashboard →
-    </a>
-  </p>
+  </td>
 
-  </div>
+<td style="width:30%; vertical-align:top; border:none;">
 
-  <div style="flex:1;">
-    <a href="(https://public.tableau.com/app/profile/holly.jones7872/viz/CommercialPerformanceOutlookDashboard/ComercialPerformanceOutlook)" target="_blank">
-      <img src="/images/commercial_performance_&_outlook.png"
-           alt="Project Thumbnail"
-           style="width:100%; border-radius:5px;">
-    </a>
-  </div>
+<a href="https://public.tableau.com/app/profile/holly.jones7872/viz/CommercialPerformanceOutlookDashboard/ComercialPerformanceOutlook">
+<img src="/images/commercial_performance_&_outlook.png" alt="Commercial Performance Dashboard Thumbnail" width="100%">
+</a>
 
-</div>
+</td>
 
+</tr>
+</table>
 
 ## 📊 Business Dashboards
 
