@@ -11,7 +11,7 @@ A collection of personally created Tableau dashboards demonstrating business int
 <table style="width:100%; border:none;">
 <tr>
 
-<td style="width:70%; vertical-align:top; border:none;">
+<td style="width:70%; vertical-align:top; border:none;"> 
 
   <h3>Commercial Performance & Future Outlook</h3>
 
