@@ -35,7 +35,7 @@ A collection of personally created Tableau dashboards demonstrating business int
   </div>
 
   <div style="flex:1;">
-    <a href="[https://public.tableau.com/views/YOUR_DASHBOARD_LINK](https://public.tableau.com/app/profile/holly.jones7872/viz/CommercialPerformanceOutlookDashboard/ComercialPerformanceOutlook)" target="_blank">
+    <a href="(https://public.tableau.com/app/profile/holly.jones7872/viz/CommercialPerformanceOutlookDashboard/ComercialPerformanceOutlook)" target="_blank">
       <img src="/images/tableau/project-thumbnail.png"
            alt="Project Thumbnail"
            style="width:100%; border-radius:5px;">
