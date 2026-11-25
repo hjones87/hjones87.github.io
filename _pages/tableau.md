@@ -13,7 +13,7 @@ A collection of personally created Tableau dashboards demonstrating business int
 
 <td style="width:70%; vertical-align:top; border:none;"> 
 
-  <h3>Commercial Performance & Future Outlook</h3>
+  <h2>Commercial Performance & Future Outlook</h2>
 
   <p><strong>Project Overview</strong><br>
   Brief overview of the dashboard and what it demonstrates.</p>
