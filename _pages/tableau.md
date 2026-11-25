@@ -8,7 +8,7 @@ A collection of personally created Tableau dashboards demonstrating business int
 
 ## ⭐ Featured Project
 
-<div style="display:flex; gap:20px; margin-bottom:40px; align-items:center;">
+<div style="display:flex; gap:30px; margin-bottom:40px; align-items:centre;">
 
   <div style="flex:1.5;">
 
