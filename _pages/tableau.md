@@ -10,9 +10,9 @@ A collection of personally created Tableau dashboards demonstrating business int
 
 <div style="display:flex; gap:30px; margin-bottom:40px; align-items:center;">
 
-  <div style="flex:1.25;">
+  <div style="flex:2;">
 
-  <h3>Commercial Performance & Outlook Dashboard</h3>
+  <h2>Commercial Performance & Outlook Dashboard</h2>
 
   <p><strong>Project Overview</strong><br>
   An executive dashboard designed to monitor sales, profitability, customer trends and regional performance across the UK retail market.</p>
@@ -34,7 +34,7 @@ A collection of personally created Tableau dashboards demonstrating business int
 
   </div>
 
-  <div style="flex:1.75;">
+  <div style="flex:1.25;">
     <a href="https://public.tableau.com/" target="_blank">
       <img src="/images/commercial_performance_&_outlook.png"
            alt="Commercial Performance Dashboard"
