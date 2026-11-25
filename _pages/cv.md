@@ -88,7 +88,6 @@ BI Developer and Data Analyst with 3+ years' experience delivering BI, reporting
 <br>
 
 ## Education
-<hr style="border:0; border-top:1px solid #666; margin-top:0.5em;">
 
 - MSc Applied Wildlife Conservation (Distinction), Anglia Ruskin University, Cambridge, *Dec 2017*
 - BSc Marine & Freshwater Biology (First Class Honours), University of Essex, Colchester, *Jun 2015*
