@@ -72,6 +72,7 @@ BI Developer and Data Analyst with 3+ years' experience delivering BI, reporting
 **TIKTOK LTD, Community Content Specialist**, *Jun 2020 - Mar 2022*
 -	Maintained a 92-95% accuracy rate in policy tagging across high-volume platform data while identifying operational bottlenecks.
 -	Identified operational trends and process improvements to support policy compliance and platform safety.
+  
 
 **THE GREENWOOD PRACTICE, Receptionist and Administrative Assistant**, *May 2011 - Jul 2020*
 
