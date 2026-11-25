@@ -10,8 +10,7 @@ redirect_from:
 <img src="/images/header2.jpg" alt="Portfolio Banner" style="width:100%; margin-bottom:20px;">
 <br>
 
-# About Me
-## Business Intelligence Developer
+## About Me
 
 I am a Business Intelligence Developer and Data Analyst with experience designing and delivering data visualisation, reporting and analytics solutions using Power BI, Tableau and SQL. I enjoy transforming complex datasets into actionable business insights that support strategic decision-making and operational efficiency.
 
