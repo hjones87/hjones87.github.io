@@ -6,6 +6,14 @@ author_profile: true
 
 <br>
 
-## Projects
+## ⭐ Featured Project
 
-Details of my projects will appear here.
+## 📊 Business Dashboards
+
+## 🏆 Viz of the Day
+
+## 🌱 Environment & Sustainability
+
+## 🔄 Makeover Monday
+
+## 📖 Data Storytelling (optional)
