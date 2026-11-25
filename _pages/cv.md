@@ -30,13 +30,13 @@ BI Developer and Data Analyst with 3+ years' experience delivering BI, reporting
 - Delivered analytics and reporting solutions across retail, finance, fintech, sports science, media, defence and technology sectors, building reporting solutions that help stakeholders make evidence-based decisions.
   
 
-  **Volvo Cars Corporation, Power BI Enablement Consultant**, *Apr – Oct 2026*
+  **VOLVO CARS COORPORATION, Power BI Enablement Consultant**, *Apr – Oct 2026*
   - Delivered learning programmes covering Power BI, Power Query, DAX and data modelling, enabling 300+ users to build and maintain their own Power BI reports.
   - Produced microlearning videos and support documentation covering Snowflake, SharePoint and Excel connections, report optimisation and row-/object-level security.
   - Hosted technical clinics, troubleshooting DAX and data-modelling issues; developing Power Automate workflows, improving workforce efficiency by 2-5 hours per week per employee.
     
 
-  **John Lewis Partnership, Enablement Specialist**, *Oct 2025 - Apr 2026*
+  **JOHN LEWIS PARTNERSHIP, Enablement Specialist**, *Oct 2025 - Apr 2026*
   -	Developed e-learning programmes upskilling 1,500+ BI users and 500+ Snowflake SQL users, improving organisation-wide reporting and analytical capabilities.
   -	Built a Tableau Data Ambassador dashboard connecting business teams with 150+ analytics specialists. 
   -	Led a webinar series on accessible dashboard design (dyslexia, dyscalculia and colour-blindness), driving updates to BI reporting accessibility standards across the business.
@@ -44,20 +44,20 @@ BI Developer and Data Analyst with 3+ years' experience delivering BI, reporting
   -	Led peer reviews of dashboards and learning content to improve quality and user experience.
     
 
-  **BAE Systems, Lead Tableau BI Developer**, *Jan 2025 - Oct 2025*
+  **BAE SYSTEMS, Lead Tableau BI Developer**, *Jan 2025 - Oct 2025*
   -	Delivered Tableau functional performance dashboard 50% under budget, used by senior leadership to monitor operational performance trends and risks.
   -	Partnered with HR, Workforce Planning, QA and Governance stakeholders to define KPIs definitions, reporting measures and business requirements for reporting solutions.
   -	Investigating and resolving data quality and aggregation issues in Tableau and SQL, improving confidence in workforce performance reporting.
   -	Developed mock-data solutions in Excel, saving 320 operational hours by eliminating manual preparation work.
     
   -	
-  **John Lewis Partnership, Data Analyst Consultant**, *Nov 2024 - Jan 2025*
+  **JOHN LEWIS PARTNERSHIP, Data Analyst Consultant**, *Nov 2024 - Jan 2025*
   -	Developed Tableau dashboards measuring platform adoption, retention and engagement for 1,500-3,000+ users. 
   -	Built a Tableau training directory directing 500+ users to relevant courses based on their job role and skill level.
   -	Built reusable KPI reporting templates and authoring guides, improving reporting consistency and efficiency.
     
 
-  **Amex Global Business Travel, Data Analyst Consultant**, *Apr 2024 - Nov 2024*
+  **AMEX GLOBAL BUSINESS TRAVEL, Data Analyst Consultant**, *Apr 2024 - Nov 2024*
   -	Delivered a Tableau performance analysis dashboard for a large-scale commercial bid, defining and tracking 100+ KPI measures across travel spend, operational performance and compliance datasets. 
   -	Optimised complex calculations to reduce dashboard latency and improve performance for financial stakeholders. 
   -	Created reusable dashboard templates that increased reporting development efficiency by 300%.
