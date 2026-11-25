@@ -14,7 +14,7 @@ A collection of personally created Tableau dashboards demonstrating business int
 
   <h3>Commercial Performance & Outlook Dashboard</h3>
 
-  <div style="font-size:0.9em;">
+  <div style="font-size:0.85em;">
 
   <p>
     <strong>Project Overview</strong><br>
