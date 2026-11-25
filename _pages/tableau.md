@@ -14,18 +14,25 @@ A collection of personally created Tableau dashboards demonstrating business int
 
   <h3>Commercial Performance & Outlook Dashboard</h3>
   
+  <p style="font-size:0.85em;">
+    <strong>Project Overview</strong><br>
+  Interactive Tableau dashboard developed as part of a BI Developer technical assessment, combining sales performance, budget attainment, and pipeline forecasting into a single executive reporting solution.
+  </p>
 
-  <p><strong>Project Overview</strong><br>
-  Interactive Tableau dashboard developed as part of a BI Developer technical assessment, combining sales performance, budget attainment, and pipeline forecasting into a single executive reporting solution.</p>
+  <p style="font-size:0.85em;">
+    <strong>Business Challenge</strong><br>
+  Provide senior commercial stakeholders with a clear view of current contract sales performance against budget and assess in which areas future pipeline opportunities and risks were located.
+  </p>
 
-  <p><strong>Business Challenge</strong><br>
-  Provide senior commercial stakeholders with a clear view of current contract sales performance against budget and assess in which areas future pipeline opportunities and risks were located </p>
+  <p style="font-size:0.85em;">
+    <strong>Key Metrics</strong><br>
+  YTD Sales, YTD Budget, Budget Attainment %, Open Pipeline Value, Weighted Pipeline, Sales vs Budget Variance, and Opportunity Push Count.
+  </p>
 
-  <p><strong>Key Metrics</strong><br>
-  YTD Sales, YTD Budget, Budget Attainment %, Open Pipeline Value, Weighted Pipeline, Sales vs Budget Variance, and Opportunity Push Count.</p>
-
-  <p><strong>Tools & Techniques</strong><br>
-  Tableau, Dashboard Design, Calculated Fields, Interactive Filters, KPI Reporting, Variance Analysis, Pipeline Analytics, and Data Storytelling.</p>
+  <p><p style="font-size:0.85em;">
+    <strong>Tools & Techniques</strong><br>
+  Tableau, Dashboard Design, Calculated Fields, Interactive Filters, KPI Reporting, Variance Analysis, Pipeline Analytics, and Data Storytelling.
+  </p>
 
   <p>
     <a href="https://public.tableau.com/app/profile/holly.jones7872/viz/CommercialPerformanceOutlookDashboard/ComercialPerformanceOutlook" target="_blank">
