@@ -10,7 +10,7 @@ A collection of personally created Tableau dashboards demonstrating business int
 
 <div style="display:flex; gap:30px; margin-bottom:40px; align-items:center;">
 
-  <div style="flex:2;">
+  <div style="flex:1.5;">
 
   <h2>Commercial Performance & Outlook Dashboard</h2>
 
@@ -34,7 +34,7 @@ A collection of personally created Tableau dashboards demonstrating business int
 
   </div>
 
-  <div style="flex:1.25;">
+  <div style="flex:1.5;">
     <a href="https://public.tableau.com/" target="_blank">
       <img src="/images/commercial_performance_&_outlook.png"
            alt="Commercial Performance Dashboard"
