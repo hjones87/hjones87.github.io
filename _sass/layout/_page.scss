@@ -50,16 +50,20 @@
   font-size: $type-size-4;
 }
 
-.page__content h2 {
+.page__content {
 
-  padding-bottom: 0.5em;
+  h2 {
 
-  border-bottom: 1px solid var(--global-border-color);
+    padding-bottom: 0.5em;
 
-}
+    border-bottom: 1px solid var(--global-border-color);
+
+  }
 
   p, li, dl {
+
     font-size: 1em;
+
   }
 
   /* paragraph indents */
