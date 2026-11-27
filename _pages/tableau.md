@@ -7,7 +7,7 @@ author_profile: true
 A collection of personally created Tableau dashboards demonstrating business intelligence, data storytelling, dashboard design, and analytical problem solving. Projects range from executive reporting solutions to community visualisation challenges.
 
 # ⭐ Featured Project
----
+
 <div style="display:flex; gap:20px; margin-bottom:40px; align-items:center;">
 
   <div style="flex:2;">
@@ -62,14 +62,14 @@ A collection of personally created Tableau dashboards demonstrating business int
 <br>
 
 # 📊 Business Dashboards
----
+
 Dashboards designed to support business decision-making through interactive reporting and performance monitoring.
 
 ---
 <br>
 
 # 🏆 Viz of the Day
----
+
 A collection of Tableau community challenge submissions focused on creativity, storytelling, and advanced visualisation techniques.
 
 
@@ -231,7 +231,7 @@ A collection of Tableau community challenge submissions focused on creativity, s
 <br>
 
 # 🌱 Environment & Sustainability
----
+
 Projects focused on environmental, climate, and sustainability-related topics.
 
 
@@ -388,6 +388,5 @@ Projects focused on environmental, climate, and sustainability-related topics.
 <div style="clear:both;"></div>
 
 ---
-<br>
 
 My complete collection of Tableau visualisations can be viewed on <a href="https://public.tableau.com/app/profile/holly.jones7872/vizzes">Tableau Public</a>
