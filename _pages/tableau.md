@@ -227,6 +227,59 @@ Projects focused on environmental, climate, and sustainability-related topics.
 
   <div style="flex:2;">
 
+  <h3>The Vanishing Wild: Tracking the Global Decline of Biodiversity</h3>
+
+  <div style="font-size:0.85em;">
+
+  <p>
+    <strong>Project Overview</strong><br>
+    Interactive environmental dashboard visualising long-term biodiversity trends using Living Planet Index (LPI) data, highlighting changes in wildlife populations across regions, ecosystems, and species groups since 1970. Using Living Planet Index data from the Makeover Monday initiative.
+  </p>
+
+  <p>
+    <strong>Business Challenge</strong><br>
+    Communicate the scale and drivers of global biodiversity loss in an engaging and accessible format, enabling users to explore how population declines vary across geographic regions and ecosystem types.
+  </p>
+
+  <p>
+    <strong>Key Metrics</strong><br>
+    Global Biodiversity Decline (%), Living Planet Index Trends, Regional Population Change, Ecosystem Performance, Species Population Trends, and Wildlife Abundance Indicators.
+  </p>
+
+  <p>
+    <strong>Tools & Techniques</strong><br>
+   Geospatial Visualisation, Radial charts, Interactive Filtering, Environmental Analytics, Calculated Fields, Parameter Controls, Data Storytelling, Dashboard Design, and Data Visualisation.
+  </p>
+
+  <p>
+    <a href="" target="_blank">
+      View Interactive Dashboard →
+    </a>
+  </p>
+
+  </div>
+
+  </div>
+
+  <div style="flex:2;">
+    <a href="[https://public.tableau.com/app/profile/holly.jones7872/viz/Reef-reshingtheOceansTheFutureofCoralRestoration/SpatialTemporalCaseStudyOverview](https://public.tableau.com/app/profile/holly.jones7872/viz/PlanetIndexReportMOM-TheVanishingWild/PlanetIndexReport)" target="_blank">
+      <img src="/images/the_vanishing_wild.png"
+           alt="The Vanishing Wild: Tracking the Global Decline of Biodiversity"
+           style="width:100%; border-radius:5px;">
+    </a>
+  </div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+
+---
+
+<div style="display:flex; gap:20px; margin-bottom:40px; align-items:center;">
+
+  <div style="flex:2;">
+
   <h3>Reef-reshing the Oceans: The Future of Coral Restoration</h3>
 
   <div style="font-size:0.85em;">
