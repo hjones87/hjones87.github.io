@@ -82,7 +82,7 @@ BI Developer and Data Analyst with 3+ years' experience delivering BI, reporting
 -	<a href="https://achieve.snowflake.com/48e3569a-ea94-4486-b6c3-650cf10e50ba#acc.X3YpiHZP">Snowflake Hands-On Essentials Workshops Badge 2: Collaboration, Marketplace & Cost Estimation</a>, *Nov 2026*
 -	<a href="https://achieve.snowflake.com/5b9253dd-ec11-4696-8b27-9ad5662eda74#acc.6tJnebK9">Snowflake Hands-On Essentials Workshops Badge 3: Data Applications Builder</a>, *Nov 2026*
 -	Three-time Tableau Public Viz of the Day recipient, *Aug 2026*
--	<a href="<a href="https://achieve.snowflake.com/5b9253dd-ec11-4696-8b27-9ad5662eda74#acc.6tJnebK9">Microsoft Certified: Power BI Data Analyst Associate</a>, *Jul 2026*
+-	<a href="https://learn.microsoft.com/api/credentials/share/en-us/HollyJones-0748/1EC31A2E45C5954E?sharingId=355F7068351964D5">Microsoft Certified Power BI Data Analyst Associate</a>, *Jul 2026*
 -	<a href="https://credentials.getdbt.com/eb2ad654-95a0-4513-8c9e-dd708e1012e1#acc.U1dtnWFD">dbt Fundamentals</a>, *Jan 2025*
 
 <br>
