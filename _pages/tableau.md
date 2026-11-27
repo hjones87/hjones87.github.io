@@ -33,7 +33,7 @@ A collection of personally created Tableau dashboards demonstrating business int
 
   <p>
     <strong>Tools & Techniques</strong><br>
-    ableau, Dashboard Design, Calculated Fields, Interactive Filters, KPI Reporting, Variance Analysis, Pipeline Analytics, and Data Storytelling.
+    Dashboard Design, Calculated Fields, Interactive Filters, KPI Reporting, Variance Analysis, Pipeline Analytics, and Data Storytelling.
   </p>
 
   <p>
