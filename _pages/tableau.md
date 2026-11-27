@@ -113,7 +113,7 @@ A collection of Tableau community challenge submissions focused on creativity, s
 
   <div style="flex:2;">
     <a href="https://public.tableau.com/app/profile/holly.jones7872/viz/SuperstoreBusinessDashboard_17858568144130/SuperStoreProfits" target="_blank">
-      <img src="/images/Superstore_business.png"
+      <img src="/images/Superstore_business.png" 
            alt="Superstore Business Performance Dashboard"
            style="width:100%; border-radius:5px;">
     </a>
