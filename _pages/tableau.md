@@ -223,6 +223,107 @@ A collection of Tableau community challenge submissions focused on creativity, s
 # 🌱 Environment & Sustainability
 Projects focused on environmental, climate, and sustainability-related topics.
 
+<div style="display:flex; gap:20px; margin-bottom:40px; align-items:center;">
+
+  <div style="flex:2;">
+
+  <h3>Reef-reshing the Oceans: The Future of Coral Restoration</h3>
+
+  <div style="font-size:0.85em;">
+
+  <p>
+    <strong>Project Overview</strong><br>
+    Interactive environmental analytics dashboard exploring global coral restoration efforts, examining restoration methodologies, project outcomes, and factors influencing coral survival across different regions and ecosystems.
+  </p>
+
+  <p>
+    <strong>Business Challenge</strong><br>
+    Coral restoration research is dispersed across hundreds of studies, making it difficult to understand which techniques are most widely used and which factors contribute to successful restoration outcomes. This dashboard consolidates data from global studies to identify trends, evaluate effectiveness, and support evidence-based conservation decision-making.
+  </p>
+
+  <p>
+    <strong>Key Metrics</strong><br>
+    Total Restoration Studies, Study Duration, Spatial Scale, Restoration Techniques, Coral Survival Rate, Restoration Success Rate, Disturbance Type, Coral Genus Performance, and Global Restoration Locations.
+  </p>
+
+  <p>
+    <strong>Tools & Techniques</strong><br>
+   Environmental Analytics, Geospatial Mapping, Interactive Filtering, Research Analysis, Calculated Fields, Comparative Analysis, Data Storytelling, Dashboard Navigation, and Data Visualisation.
+  </p>
+
+  <p>
+    <a href="" target="_blank">
+      View Interactive Dashboard →
+    </a>
+  </p>
+
+  </div>
+
+  </div>
+
+  <div style="flex:2;">
+    <a href="https://public.tableau.com/app/profile/holly.jones7872/viz/Reef-reshingtheOceansTheFutureofCoralRestoration/SpatialTemporalCaseStudyOverview" target="_blank">
+      <img src="/images/reef-freshing_the_oceanspng.png"
+           alt="Reef-reshing the Oceans: The Future of Coral Restoration"
+           style="width:100%; border-radius:5px;">
+    </a>
+  </div>
+
+</div>
+
+<div style="clear:both;"></div>
+
+---
+
+<div style="display:flex; gap:20px; margin-bottom:40px; align-items:center;">
+
+  <div style="flex:2;">
+
+  <h3>Chasing Ocean Giants: Shark Migration & Tracking Dashboard</h3>
+
+  <div style="font-size:0.85em;">
+
+  <p>
+    <strong>Project Overview</strong><br>
+    Interactive dashboard visualising shark tagging and migration data from OCEARCH, allowing users to follow individual sharks and analyse tagging activity, species distribution, and travel distances across multiple years.
+  </p>
+
+  <p>
+    <strong>Business Challenge</strong><br>
+    Transform large volumes of animal tracking data into an engaging and accessible visual experience, allowing users to investigate migration behaviour, species trends, and individual shark journeys across the world's oceans.
+  </p>
+
+  <p>
+    <strong>Key Metrics</strong><br>
+    Sharks Tagged, Distance Travelled, Species Counts, Gender Distribution, Tagging Activity Over Time, and Individual Migration Paths.
+  </p>
+
+  <p>
+    <strong>Tools & Techniques</strong><br>
+    Geographic Mapping, Interactive Filtering, Temporal Analysis, Animated Path Tracking, Dashboard Actions, Parameter Controls, Data Storytelling, and Data Visualisation.
+  </p>
+
+  <p>
+    <a href="" target="_blank">
+      View Interactive Dashboard →
+    </a>
+  </p>
+
+  </div>
+
+  </div>
+
+  <div style="flex:2;">
+    <a href="https://public.tableau.com/app/profile/holly.jones7872/viz/SharkTracking/SharkTracking#2" target="_blank">
+      <img src="/images/shark_tracking.png"
+           alt="Chasing Ocean Giants: Shark Migration & Tracking Dashboard"
+           style="width:100%; border-radius:5px;">
+    </a>
+  </div>
+
+</div>
+
+<div style="clear:both;"></div>
 
 
 My complete collection of Tableau visualisations can be viewed on <a href="https://public.tableau.com/app/profile/holly.jones7872/vizzes">Tableau Public</a>
